@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body{
-    background-color: #f1f1f1;
+    background-color: #f2f2f2;
     color: #0f141e;
 
 
@@ -92,17 +92,17 @@ margin: 20px;
 } */
 
 .bg-yellow {
-background:  #ff7c4d;
+background:  #7FFF00;
 
 }
 
 .bg-grey {
-    background:	#ff7c4d  ;
+    background:	#7FFF00  ;
     
     }
 
 .bg-yellow {
-background:#ff7c4d ;
+background:#7FFF00 ;
 
 }
 
